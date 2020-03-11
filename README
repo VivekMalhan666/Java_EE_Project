@@ -1,0 +1,17 @@
+To run the project you would require :
+	1. Eclipse for java EE
+	2. H2 Database Services
+************************************************
+To enable database:
+	1. Run h2 server
+	2. Save the configuration details in the Project/src/com/savelife/utility Directory
+	3. Create the following tables in the h2 server:
+		a) Child
+		b) Feedback
+		c) Login
+		d) User
+		e) Volunteer
+	4. Save all the configurations
+************************************************
+
+
